@@ -7,7 +7,7 @@ I design **LLM-powered agents** capable of reasoning, planning, collaborating, a
 I enjoy transforming complex research ideas into **robust, secure, and scalable AI systems** ready for real-world deployment.
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2c5e5b87602523.5dc8c5d1a0b47.gif" alt="Chill Mario" width="420"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif alt="Chill Mario" width="420"/>
 </p>
 
 ---
