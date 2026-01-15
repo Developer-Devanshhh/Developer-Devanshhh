@@ -1,34 +1,37 @@
-# 💫 About Me
-
-Hi, I’m **Devansh Verma** — a Computer Science undergraduate building **agentic & autonomous AI systems** that go beyond static prompt–response models.
-
-I design **LLM-powered agents** capable of reasoning, planning, collaborating, and acting safely in real-world environments. My work spans **Agentic AI, Multi-Agent Architectures, and Autonomous Decision Systems**, with hands-on experience deploying **production-grade GenAI pipelines** across healthcare, emotional intelligence, and real-time perception.
-
-I enjoy transforming complex research ideas into **robust, secure, and scalable AI systems** ready for real-world deployment.
-
+# Welcome To My World
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif alt="Chill Mario" width="420"/>
+  
+  <img src="https://cdn.suwalls.com/wallpapers/fantasy/man-on-top-of-the-world-26363-1920x1080.jpg" alt="Autonomous Systems Visualization" width="800" align="center"/>
+
 </p>
+
+# Developer-Devanshhh
+Hi, I’m **Devansh** ,an undergraduate building **agentic & autonomous AI systems** that go beyond static prompt–response models.
+I design **LLM-powered agents** capable of reasoning, planning, collaborating, and acting safely in real-world environments. My work spans **Agentic AI, Multi-Agent Architectures, and Autonomous Decision Systems**, with hands-on experience deploying **production-grade GenAI pipelines** across healthcare, emotional intelligence, and real-time perception.
+I enjoy transforming complex ideas into **robust, secure, and scalable AI systems** ready for real-world deployment.
+
+
 
 ---
 
-## 🤖 What I Work On
+## 🤖 I am Workig On
 - **Agentic & Autonomous AI** — planning, tool-use, self-reflection, multi-agent coordination  
 - **Generative AI & LLM Engineering** — RAG pipelines, memory-aware agents, prompt safety  
 - **AI Safety & Reliability** — guardrails, evaluation, emergency bypasses, compliance-first design  
 - **Full-Stack AI Products** — end-to-end systems from model to production UI  
-
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" alt="Chill Mario" width="800"/>
+</p>
 ---
 
 ## 🧠 Core Technical Focus
+
 - **Agentic Frameworks:** LangChain, custom multi-agent orchestration, tool-based autonomy  
 - **LLM Systems:** RAG, vector memory, long-term context retention, evaluation pipelines  
 - **ML & NLP:** PyTorch, Hugging Face, DistilBERT, emotion modeling  
 - **Systems & Infra:** Next.js, FastAPI, Docker, AWS, Linux, Git  
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*A2kD2TskQtP56OKXC1owMg.gif" alt="Autonomous Systems Visualization" width="520"/>
-</p>
+
 
 ---
 
