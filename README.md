@@ -46,17 +46,17 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 </p>
 
-
+<br>
 <h2 align="center">Developer-Devanshhh</h2>
 
 <p align="center">
-Computer Science Undergrad building <b>Agentic & Autonomous AI systems</b> that go beyond static prompt–response models.<br/>
+Computer Science Undergrad building <b>Agentic & Autonomous AI systems</b> that goes beyond static prompt–response models.<br/>
 
 </p>
 
+
 I design **LLM-powered agents** capable of reasoning, planning, collaborating, and acting safely in real-world environments.  
 My work spans **Agentic AI, Multi-Agent Architectures, and Autonomous Decision Systems**, with hands-on experience deploying **production-grade GenAI pipelines** across healthcare, emotional intelligence, and real-time perception.
-
 I enjoy transforming complex ideas into **robust, secure, and scalable AI systems** ready for real-world deployment.
 
 <p align="center">
@@ -70,8 +70,8 @@ I enjoy transforming complex ideas into **robust, secure, and scalable AI system
 
 ---
 
-<h2 >I’m Building & Exploring</h2>
-
+<h2 >🚀I’m Building & Exploring</h2>
+<br>
 
 - **Agentic & Autonomous AI** — planning, tool-use, self-reflection, multi-agent coordination  
 - **Generative AI & LLM Engineering** — RAG pipelines, memory-aware agents, prompt safety  
@@ -83,10 +83,10 @@ I enjoy transforming complex ideas into **robust, secure, and scalable AI system
 
 
 
-
-<h2 >🌐 Connect With Me</h2>
-
-<p align="center">
+<br>
+<h2 >🌐 Connect with Me</h2>
+<br>
+<p>
 <a href="https://www.linkedin.com/in/devanshverma099">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
