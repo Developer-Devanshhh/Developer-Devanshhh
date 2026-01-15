@@ -1,10 +1,14 @@
 # 💫 About Me
 
-Hi, I’m **Devansh Verma** — a Computer Science undergrad building **agentic & autonomous AI systems** that go beyond static prompt–response models. I design **LLM-powered agents** that reason, plan, collaborate, and act safely in real-world environments.
+Hi, I’m **Devansh Verma** — a Computer Science undergraduate building **agentic & autonomous AI systems** that go beyond static prompt–response models.
 
-I specialize in **Agentic AI, Multi-Agent Architectures, and Autonomous Decision Systems**, and I ship production-grade GenAI pipelines for healthcare, emotional intelligence, and real-time perception. I enjoy turning research ideas into **robust, secure, and scalable** systems ready for real-world deployment.
+I design **LLM-powered agents** capable of reasoning, planning, collaborating, and acting safely in real-world environments. My work spans **Agentic AI, Multi-Agent Architectures, and Autonomous Decision Systems**, with hands-on experience deploying **production-grade GenAI pipelines** across healthcare, emotional intelligence, and real-time perception.
 
-[View Chill Mario GIF / Motion Preview →](https://www.behance.net/gallery/87602523/Chill-Mario/modules/506717475). :contentReference[oaicite:0]{index=0}
+I enjoy transforming complex research ideas into **robust, secure, and scalable AI systems** ready for real-world deployment.
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2c5e5b87602523.5dc8c5d1a0b47.gif" alt="Chill Mario" width="420"/>
+</p>
 
 ---
 
@@ -12,38 +16,45 @@ I specialize in **Agentic AI, Multi-Agent Architectures, and Autonomous Decision
 - **Agentic & Autonomous AI** — planning, tool-use, self-reflection, multi-agent coordination  
 - **Generative AI & LLM Engineering** — RAG pipelines, memory-aware agents, prompt safety  
 - **AI Safety & Reliability** — guardrails, evaluation, emergency bypasses, compliance-first design  
-- **Full-Stack AI Products** — end-to-end systems from model to product UI
+- **Full-Stack AI Products** — end-to-end systems from model to production UI  
 
 ---
 
 ## 🧠 Core Technical Focus
 - **Agentic Frameworks:** LangChain, custom multi-agent orchestration, tool-based autonomy  
 - **LLM Systems:** RAG, vector memory, long-term context retention, evaluation pipelines  
-- **ML & NLP:** PyTorch, Hugging Face, DistilBERT, emotion modeling, fine-tuning & evaluation  
-- **Systems & Infra:** Next.js, FastAPI, Docker, AWS, Linux, Git, DB scalability & encryption
+- **ML & NLP:** PyTorch, Hugging Face, DistilBERT, emotion modeling  
+- **Systems & Infra:** Next.js, FastAPI, Docker, AWS, Linux, Git  
 
-> More reading: *VR & spatial computing creates new useful realities* — https://arvrjourney.com/vr-creates-new-useful-realities-c73cc4e6cace
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*A2kD2TskQtP56OKXC1owMg.gif" alt="Autonomous Systems Visualization" width="520"/>
+</p>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshverma099)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devansh.verma1911@gmail.com)  
+## 🌱 Currently Exploring
+- Self-improving agents & reflection-based reasoning loops  
+- Autonomous evaluation & safety layers for sensitive AI domains  
+- Multi-agent collaboration for complex task decomposition  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshverma099)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devansh.verma1911@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Developer-Devanshhh)
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Core
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### AI / ML / GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
@@ -92,7 +103,7 @@ I specialize in **Agentic AI, Multi-Agent Architectures, and Autonomous Decision
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Developer-Devanshhh&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Developer-Devanshhh&theme=merko&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Developer-Devanshhh&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Devanshhh&theme=merko&layout=compact)
 
